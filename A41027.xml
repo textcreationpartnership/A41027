@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pro presbytero Johanne, ac omnibus ejus regibus &amp; principibus subordinati. A populo Dei in Anglia, vocato Anglice Quakers.= For presbyter John, and all his subordinate kings and princes. Fkom [sic] the people of God in England, in English called, Quakers. H.F. J.S.</title>
+            <author>Fell, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41027</idno>
+            <idno type="STC">Wing F604</idno>
+            <idno type="STC">ESTC R215753</idno>
+            <idno type="EEBO-CITATION">99827526</idno>
+            <idno type="PROQUEST">99827526</idno>
+            <idno type="VID">31946</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31946)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1847:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pro presbytero Johanne, ac omnibus ejus regibus &amp; principibus subordinati. A populo Dei in Anglia, vocato Anglice Quakers.= For presbyter John, and all his subordinate kings and princes. Fkom [sic] the people of God in England, in English called, Quakers. H.F. J.S.</title>
+                  <author>Fell, Henry.</author>
+                  <author>Stubbs, John, 1618?-1674.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Wilson at the sign of the Black-spread Eagle and Wind-Mill in Martins l'Grand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>H.F. = Henry Fell; J.S. = John Stubbs.</note>
+                  <note>Latin text; followed by the same text in English translation.</note>
+                  <note>Reproduction of the originals in the Friends House Library, London (Early English books) and the British Library (Misc. Brit. tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31946:1" rendition="simple:additions"/>
+            <p>PRO PRESBYTERO JOHANNE, AC Omnibus ejus REGIBUS &amp; PRINCIPIBUS ſubordinatis A Populo Dei in Anglia, vocato Anglice QUAKERS.</p>
+            <p>FOR Presbyter John, AND All his ſubordinate KINGS and PRINCES.</p>
+            <p>FKOM THE People of God in ENGLAND, in ENGLISH called, QUAKERS.</p>
+            <p>H. F. J. S.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon</hi> at the ſign of the <hi>Black-ſpread Eagle</hi> and <hi>Wind-Mill</hi> in <hi>Martins l'Grand,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div xml:lang="lat" type="version">
+               <pb facs="tcp:31946:2" rendition="simple:additions"/>
+               <pb n="1" facs="tcp:31946:2" rendition="simple:additions"/>
+               <head>Pro <hi>PRESBYTERO JOHANNE,</hi> ac omnibus ejus Regibus, &amp; Principi bus ſubordinatis.</head>
+               <p>
+                  <hi>Nos populi ſumus</hi> è <hi>longinquo proventi,</hi> qui <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſumus, qui ſalutem illorum cum <hi>timore,</hi> &amp; <hi>tremore</hi> c<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>mus <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> tales ſumus, quales qui apud <hi>verbum</hi> Domini (qui vivit ac permanet in aeternum,) <hi>tremunt;</hi> quo cuncta fini<g ref="char:EOLhyphen"/>entia, &amp; non permanentia neque inſiſtentia videntur. Nos ex omnibus Deriſoribus, &amp; Scurris in mundo ejecti ſumus; à bla<g ref="char:EOLhyphen"/>teronibus circa Miniſterium, eccleſiam, Religionem, &amp; cul<g ref="char:EOLhyphen"/>tum, qui ab illis in Deriſione <hi>tremores</hi> vocati ſumus, qui quod concutiendum eſt concuti cognoſcimus, utque id quod concuti non poteſt appareat; <hi>Agnus a fundamento mundi Mactatus nunc eti<g ref="char:EOLhyphen"/>am apparetur;</hi> omneſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> occiſores, cum maximè precipuis illorum maximi illius profeſſores fuerunt, &amp; nune eſt <hi>tremor, quaſſatioqu<g ref="char:punc">▪</g> in Tabernaculis,</hi> in <hi>Campis, in exercitibus illorum:</hi> nuncque omnium voluntariorum adoratorum, &amp; eccleſiarum, &amp; Miniſterii, inven<g ref="char:EOLhyphen"/>tionumque quaſſatio, &amp; concuſſii ſunt, &amp; ſcientiae, intellectuſque quae in nihilum rediguntur, nunc enim <hi>ſemen ſurrectum eſt, ſu<g ref="char:EOLhyphen"/>per illorum veſtigium,</hi> eos in pulverem ad molandum; nunc <hi>agnus ſurrectus eſt,</hi> &amp; ad <hi>regnandum</hi> ventus eſt, qui omnia ſibiipſi ſub<g ref="char:EOLhyphen"/>jiciet, &amp; <hi>regna Nationesque</hi> ſubdet, qui reget, &amp; regnabit, <hi>im<g ref="char:EOLhyphen"/>periumque in juſitiâ habebit.</hi>
+               </p>
+               <p>Annunciatio noſtra mittitur ad te, &amp; ad tua regna, a ſervis Domini, miſitque nos ſervos ſuos ad te, tuaque Dominia, Na<g ref="char:EOLhyphen"/>tionesque viſitandum, noſque audientes te amorem habere in fidem <hi>Chriſti mundi luminis,</hi> qui <hi>illuminat omnem hominem veni<g ref="char:EOLhyphen"/>entem in mundum,</hi> quo homines fidem ab illo apprehendunt.</p>
+               <p>
+                  <hi>Nos</hi> à Domino ex magnâ Britannia <hi>moti,</hi> ex Anglia ab inter familias Prophetarum Dei excelſi, inter quos poteſtas, nomen, &amp; gloria ejus revelatur, qui <hi>duo ſumus</hi> ex ceteris, qui in <hi>alteras Nationes</hi> emittimur in mundum, in <hi>extremas terrae <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ras,</hi> ad Dei vineam viſitandum, ac <hi>Reges</hi> terrae quos Deus in manu ejus
+<pb n="2" facs="tcp:31946:3" rendition="simple:additions"/>h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bet, &amp; ſicut <hi>aquas illos regit,</hi> qui perſonam alicujus hominis reſpicere non poſſumus, neque legem potentis Dei tranſgredi, quae dicit quòd ille qui perſonas re picit peccatum committit, &amp; ita totius Legis potent<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Dei univerſae terrae ſit reus, Dei <hi>Ja<g ref="char:EOLhyphen"/>cob, Abraham, Moſis, Solomonis, Davidis,</hi> Dei <hi>qui ita mundum amavit ut unigenitum Filium ſuum in mundum miſit, quod quiſquis in illo crederet non periret, ſed vitam aeternam haberet,</hi> qui <hi>filius emnem hominem in mundum venientem illuminat, ut omnes per il<g ref="char:EOLhyphen"/>lum credere poſſint,</hi> ſic in illo ſtaſta, reſpectuque omnes homines in eſtimatione habemus ut ſaluari poſſent, &amp; ad vitam veni<g ref="char:EOLhyphen"/>rent, ac omnes homines, &amp; creaturas in Domino honoramus, quatenùs ipſe eos creavit, quatenùs creaturas, quas ipſe fecit, quanquam ab illo <hi>degene<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es fiant,</hi> iis opus manuum ipſius ex<g ref="char:EOLhyphen"/>iſtentibus; Ita igitur ab omnibus in terram hominibus de<g ref="char:EOLhyphen"/>ſpecti ſumus, utrum profeſſores <hi>Dei Chri<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ti, Prophetarum, Apo<g ref="char:EOLhyphen"/>ſtolorum, Sanctorumque verborum;</hi> in totâ Scriptura ſint; iis non in vitâ, &amp; poteſtate Chriſti exiſtentibus, in vitâ Prophetarum, &amp; Apoſtolorum, atque id omnis odii in terrâ cauſa eſt tàm in<g ref="char:EOLhyphen"/>ter Profeſſore, quàm Ethnicos, ſic tua nobilitas, amor tui ad Jeſum, amor tui ad Apoſtolos, &amp; amor tui erga Prophetas multùm delocutus eſt; <hi>at hoc non niſi pars noſtri nuncii,</hi> quòd <hi>Tu,</hi> &amp; <hi>Vos,</hi> &amp; <hi>omnes</hi> in vitam <hi>Moſis, Prophetarum, Chriſti Jeſu,</hi> &amp; in <hi>vitam</hi> Dei pervenire poſſetis, totumque ſubter te <hi>Dominium tuum,</hi> quo pax Dei omnem intellectum pretereùns <hi>cuncta corda veſtra poſſideat,</hi> ut ad <hi>fidem</hi> quam habetis in filio Dei <hi>virtutem</hi> addatis, utque ad <hi>ſcientiam</hi> quam habetis de Prophetis &amp; A<g ref="char:EOLhyphen"/>poſtolis, &amp; Chriſto <hi>temperantiam</hi> addatis, &amp; ut ad <hi>temperan<g ref="char:EOLhyphen"/>tiam,</hi> addatis <hi>patientiam,</hi> ac <hi>pietatem,</hi> &amp; ad <hi>pietatem fraternum amorem</hi> &amp; <hi>charitatem,</hi> quae nunquam deficiat ubi Dei amor eſt, hîc amor in corde diffuſus, Nunc autem his in vobis entibus, abundabitis ac nequaquam <hi>ſteriles,</hi> nec <hi>infructuoſi</hi> in <hi>cognitione</hi> Domini noſtri Jeſu Chriſti eritis; ſed introitus vobis abundè miniſtrabitur in regnum ſempiternum Domini noſtri Jeſu <hi>Chriſti, ſed ſi haec deficiunt caeci eritis, voſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> à priſtinis peccatis veſtris unquam purgatos fuiſſe obliviſcemini; haec itaque prae<g ref="char:EOLhyphen"/>fata in vobis cognoſcenda ſunt; &amp; neceſſe e<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ut regnum caelorum notum ſit in vobis licet grano ſinapis ſimile eſt,</hi> &amp; illud eſt quod <hi>malo, aut peccato</hi> nunquam aſſentiverit, idque eſt fermentum donec nova maſſa fiat.</p>
+               <pb n="3" facs="tcp:31946:3" rendition="simple:additions"/>
+               <p> Fert <hi>verbum,</hi> quod erat in <hi>principio, Chri lus</hi> [in quo omnes Prophetae, &amp; Typi, figurae, umbraeque deſinunt ſentiendum eſt ac inveniendum in corde, idque eſt <hi>verbum</hi> quod <hi>pretioſum</hi> à vi<g ref="char:EOLhyphen"/>li diſſerat, pretioſa deſideria à vilibus, prerioſa verba à vilibus Chriſtusque ft intùs myſterium, ſpes gloriae, &amp; omnis <hi>verus Chri<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ianus</hi> noſcituras eſt Legem Dei intra mentem, &amp; in corde ſuo poſitam, <hi>adeo ut non neceſſe erit illis ad invicem dicere, cog<g ref="char:EOLhyphen"/>noſcite Dominum, omnes enim à maximo ad mimmum cognoſcent eum, quicunque legem in cerdibus ſuis inſcriptam habent &amp; in men<g ref="char:EOLhyphen"/>tibus ſuis</hi> pontam, Dominuſque ipſe ad docendum populum ejus Spiritumo venturus eſt, in quo apud ſeipſum unitatem habe<g ref="char:EOLhyphen"/>bunt, in quo adorabitur in veritate, in quo Spiritu unitatem cum filio, cum verbis Prophetarum, &amp; Apoſtolorum ejus, illo<g ref="char:EOLhyphen"/>rumque Spiritibus, &amp; apud ſe invicem habebunt. Nunc autem nemo qui Chriſtianus eſt cum carne, &amp; ſanguine certaturus eſt, aut inimicos oſurus, ſed illos amaturus; neque circa eccleſiam ſuam, circa Miniſterium ſuum, circa cultum ſuum, circa Reli<g ref="char:EOLhyphen"/>gionem ſuam perſecuturus eſt, nihil coactione, ſed amore <hi>facturi ſunt Chriſtiani,</hi> nihil in lite, ibi enim gloratio, &amp; Jactan<g ref="char:EOLhyphen"/>tia, elatio erunt, <hi>Deus enim amavit mundum etiamſi hoſtes ejus,</hi> atque ita oportet Filios ejus non circa Religionem, eccleſiam, cultum, ac Miniſterium <hi>interficere;</hi> atque is Chriſtus, <hi>filius</hi> Dei, qui in mundum miſſus fuit, ſaluator mundi, ipſe dicit Diſcipulis ſuis <hi>amate inimicos,</hi> &amp; <hi>perſecutores,</hi> alioquin <hi>quid plus quam Phariſei agitis?</hi> illi enim <hi>amicos ſuos amabant,</hi> &amp; non in amore Dei qui mundum amabat fuerant; hîc ita Chriſtianorum a<g ref="char:EOLhyphen"/>morem oportet ab amore mundi differre, <hi>Phariſet, Judaei,</hi> illi Templum, ſacerdotes, Prophetas, Scripturaſque habebant, ſed extra vitam quae illas edidit, ſic Chriſtum quando venit non receperunt, atque ita amorem Dei neſciebant; ſed amico suos perſecuti ſunt, ſicut <hi>omnes Chriſtiani qui ſcripturas ventatis,</hi> &amp; Chriſti <hi>verba</hi> habent, &amp; <hi>inimicos non amant,</hi> illi non ab <hi>amore</hi> Phariſeorum differrunt, qui amor eſt <hi>amor ſui,</hi> fic univer<g ref="char:EOLhyphen"/>ſalis Dei amor (filiis ejus in eo manentibus) hoſte amat, per<g ref="char:EOLhyphen"/>fectus fit, ficqne in mentem Chriſti venit, per quem mentem Dei ſciunt, &amp; in pactum Dei veniunt, &amp; cum vitâ Dei conſo<g ref="char:EOLhyphen"/>ciantur.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="version">
+               <pb n="4" facs="tcp:31946:4" rendition="simple:additions"/>
+               <head>For <hi>PRESBYTER JOHN,</hi> and all his ſubordinate <hi>KINGS</hi> and <hi>PRIN<g ref="char:EOLhyphen"/>CES.</hi>
+               </head>
+               <p>
+                  <hi>WEe are a people come from far, who are ſuch as workes out their Salvation with fear, and trembling;</hi> who are ſuch as <hi>tremble</hi> at the word of God (who lives, &amp; abides, and endures for ever) by which all things are ſeen that end, and do not endure, and do not abide, we are by all the ſcorners, and ſcoffers in the world caſt out, by the janglers about Miniſtry, Church Religion, and Worſhip, who are by them in ſcorn called <hi>Quakers,</hi> who know that which is to be ſhaken is ſhaken, and that is appeared which cannot be ſhaken, <hi>the Lamb ſlain from the Foundation of the World,</hi> and now is appeared; and are the ſlayers, which the chiefeſt of them have been the greateſt <hi>Profeſſors</hi> of him: and now is the <hi>trem<g ref="char:EOLhyphen"/>bling</hi> and <hi>ſhaking</hi> in their <hi>tents,</hi> in their <hi>Campes,</hi> in their <hi>hoſts,</hi> and now are the quivering and ſhaking, of all the <hi>will worſhippers</hi> and <hi>Churches,</hi> and <hi>Miniſtry,</hi> and <hi>Inventions,</hi> and of the know<g ref="char:EOLhyphen"/>ledg, and underſtanding which comes to naught; for now is the ſeed riſen a topp of them to grind them to powder, <hi>for now is the Lamb riſen, and come to reign who will ſubject all things to himſelfe and ſubdue Kingdomes, and Nations who will Rule, and Raign, and have the Government in righteouſneſſe.</hi>
+               </p>
+               <p>
+                  <hi>Our meſſuage</hi> is ſent unto Thee, and to thy Kingdomes by us the ſervants of the Lord, and hath ſent us his ſervants to give Thee, and Thy Dominions, and Nations a viſit and hearing that thou haſt a Love to the faith of Chriſt, the <hi>Light</hi> of the World, which <hi>enlightneth</hi> every man that cometh into the world, by which men apprehend the Faith from him.</p>
+               <p>
+                  <hi>We from the Lord</hi> having a moving out of great <hi>Brittain, England,</hi> from among the family of the <hi>Prophets</hi> of the moſt high God, among whom his name and power and glory is re<g ref="char:EOLhyphen"/>vealed, <hi>who are two</hi> of the reſt which are ſent out into the Nati<g ref="char:EOLhyphen"/>ons, into the World, into the utmoſt parts of the Earth, to viſite Gods Vineyard, and the <hi>Kings</hi> of the <hi>Earth whom God
+<pb n="2" facs="tcp:31946:4" rendition="simple:additions"/>hath in his hand, and rules them as the waters,</hi> who cannot re<g ref="char:EOLhyphen"/>ſpect any mans perſon, nor tranſgreſs the Law of the mighty God, which ſayes, <hi>he that reſpects perſons commits ſin, and ſo be<g ref="char:EOLhyphen"/>comes guilty of the whole Law of the mighty God of the whole earth, of Jacob, of Abraham, of Moſes, of Solomon, of David, God that ſo loved the world, that he ſent his only begotten Son into the world, that whosoever believeth in him ſhould not periſh but have eternal life, which Son doth enlighten every one that cometh into the World, that all through him might believe,</hi> ſo in that ſtate, and regard we have all men in eſteem; (that they might be ſaved and come to life) and honour all men, and Creatures in the Lord as he hath created them, as creatures that he hath made; though they be degenerated from him, they being his handy<g ref="char:EOLhyphen"/>work, ſo therefore are we deſpiſed of all the men of the earth, whether <hi>Profeſſors</hi> of <hi>God, Chriſt,</hi> the <hi>Prophets,</hi> and <hi>Apoſtles,</hi> and <hi>Saints words,</hi> in the whole Scripture, they not being in the life, and power of God, Chriſt, the Prophets, and Apo<g ref="char:EOLhyphen"/>ſtles liſe, and that is the cauſe of all hatred in the earth, amongſt Profeſſors as well as Heathens, ſo thy <hi>Nobility,</hi> thy <hi>Love</hi> to <hi>Je<g ref="char:EOLhyphen"/>ſus,</hi> thy <hi>love</hi> to the <hi>Apoſtles,</hi> and thy <hi>love</hi> to the <hi>Prophets is much ſpoken off, but this is but part of our meſſuage,</hi> that <hi>thou,</hi> and <hi>you,</hi> and <hi>all</hi> might come into the life of <hi>Moſes,</hi> of the <hi>Prophets</hi> of <hi>Chriſt Jeſus,</hi> and the life of God, and all thy <hi>Dominion</hi> under thee, whereby the peace of God which paſſeth all underſtan<g ref="char:EOLhyphen"/>ding may poſſeſs all your hearts, that to the faith you have in the Son of God you may add <hi>virtue,</hi> and to the <hi>knowledge</hi> which you have of the Prophets, and Apoſtles, and Chriſt you may add <hi>Temperance,</hi> and to <hi>Temperance,</hi> you may add <hi>Patience</hi> and <hi>Godlineſs,</hi> and to <hi>Godlineſſe, Brotherly kindneſs,</hi> and <hi>Charity,</hi> which never fails where the love of God is, this love ſhed in the heart; Now theſe things being in you, you ſhall abound, and never be barren, nor unfruitful in the knowledg of our Lord Jeſus Chriſt, and an entrance ſhall be Miniſtred unto you abundantly, into the everlaſting kingdom of our Lord Jeſus Chriſt; but if theſe things be laking you will be blind, and forget that ever you were purged from your old ſins. <hi>There<g ref="char:EOLhyphen"/>fore theſe things before mentioned muſt be known in you;</hi> and the Kingdom of Heaven muſt be known in <hi>you,</hi> though it be but like <hi>a graine of Muſtardſeed,</hi> and that is it which never <hi>con<g ref="char:EOLhyphen"/>ſented unto ſin,</hi> and <hi>evil,</hi> and that is leaven until it become a
+<pb n="6" facs="tcp:31946:5" rendition="simple:additions"/>new Lump. <hi>And the word which was in the beginning,</hi> Chriſt (in whom all the Prophets and Types, and Figures, and ſhaddows end) is to be felt, and found in the heart, and that is the word that doth divide aſunder the Precious from the Vile, Pretious deſires from Vile, Precious words from Vile, and Chriſt be<g ref="char:EOLhyphen"/>comes within the Myſtery, the hope, of Glory, <hi>and every true Chri<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ian is to know the law of God put into his mind, and into his heart, that they need not ſay one to another, know the Lord, for all ſhall know the Lord from the lead to the greated, who have the Law written in their hearts, and put in their minds,</hi> and the Lord is coming to teach his people himſelf by his ſpirit, in which they ſhall have unity with himſelf, in which he will be worshipped in the truth, in which ſpirit they ſhall have unity with the <hi>Son</hi> and with his <hi>Prophets,</hi> and <hi>Apoſtles words,</hi> and with their <hi>Spi<g ref="char:EOLhyphen"/>rits,</hi> and one with another. Now no one that is a <hi>Christian</hi> is to wreſtle with <hi>fleſh</hi> and <hi>blood,</hi> or is to hate enemies, but to love them, and they are hot to perſecute about their <hi>Church,</hi> about their <hi>Miniſtry,</hi> about their <hi>Worſhip,</hi> about their <hi>Religion,</hi> they are to do nothing by <hi>Conſtraint,</hi> but by <hi>Love,</hi> nothing in ſtrif, for their will be a glorying, and a boſting, and lifting up, for God loved the <hi>world</hi> though <hi>enemies</hi> of himſelf, and ſo muſt his Children, not kill about <hi>Religion, Church-Worſhip,</hi> and <hi>Mi<g ref="char:EOLhyphen"/>niſtry,</hi> and that Chriſt the Son of God, that was ſent into the world, the Saviour of the world he ſayes unto his Diciples, love Enemies, and, Perſecutors, or elſe what do you more than the Phariſees, for they loved their own friends, but were not in the love of God that loved the world, ſo here Chriſti<g ref="char:EOLhyphen"/>ans love muſt differ from the world, the <hi>Phariſees,</hi> the <hi>Jews,</hi> they had the Temple, the Prieſts, and the Prophets, the Scriptures, but out of the life that gave them forth, ſo did not receive Chriſt when he came, and ſo they did not know the love of God, but they perſecuted their Friends, as all the <hi>Chriſtians</hi> that have the Scriptures of <hi>Truth,</hi> and <hi>Chriſts words,</hi> and do not love enemies they differ not from the <hi>Phariſees love,</hi> which is <hi>ſelfiſh,</hi> ſo the univerſal love of God, the Children of God being in it, loves <hi>enemies,</hi> becomes <hi>perfect,</hi> and ſo comes into the mind of <hi>Chriſt,</hi> through which they know the mind of <hi>God,</hi> and comes into the <hi>Covenant</hi> of God, and acquainted with the life of God,</p>
+            </div>
+            <trailer>THE ENd</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
